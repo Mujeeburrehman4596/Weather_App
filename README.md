@@ -17,4 +17,4 @@ Frontend: HTML, CSS, JavaScript
 
 <h5>Clone the repository</h5>
 
-git clone https://github.com/yourusername/weather-app.git
+<h3>git clone</h3> https://github.com/Mujeeburrehman4596/Weather_App
